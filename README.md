@@ -6,9 +6,9 @@
 
 - Developed by Pooya Saadatian 🤙
 
--  Created - 2023-03-1
+-  Created - 2023-05-1
 
-- Technologies Used - Html , css , JavaScript  
+- Technologies Used - Html , css  
 
 - Role - Frontend
 
